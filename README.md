@@ -87,33 +87,3 @@ javac *.java
 java InertiaGameFrame
 
 
----
-
-🧪 Behavior Summary
-
-Each move selects a direction
-
-The player continues moving in that direction until stopped
-
-Decisions are made step-by-step based on the current position
-
-The game ends when the target is reached
-
-🚀 Possible Improvements
-
-Add path visualization
-
-Include step counter and score display
-
-Add restart and reset options
-
-Introduce additional movement rules
-
-Enhance visual effects
-
-👤 Author
-
-Somisetty Veda Sai
-Computer Science
-
----
